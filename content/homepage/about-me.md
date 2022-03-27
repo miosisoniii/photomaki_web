@@ -6,8 +6,9 @@ header_menu: true
 
 ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professionel Experience
+### What the hell is a photomaki?
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+The name "photomaki" comes from the sushi roll, the *futomaki*. It's defined as a fatty roll, typically characterized by a fatty fish surrounded by a variety of vegetables. I **love** sushi so it was only natural to merge my aversion towards sushi and photography via this brand's name.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+### About Me
+My name is Artemio Sison III. You can call me *Mio*, for short (pronounced "Mee-oh"). By day I am an R&D scientist focusing on vaccines and immuno-oncology. By night I am a budding photographer and owner of **photomaki**. I am looking 
