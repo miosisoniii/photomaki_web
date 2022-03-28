@@ -6,6 +6,19 @@ To build my website, I am using the Hugo web framework. I am building this prima
 
 I chose to use the [scroll](https://themes.gohugo.io/themes/hugo-scroll/) theme from Jan Raasch's GitHub [page](https://github.com/janraasch/hugo-scroll). 
 
+I have also been using [Johannes Wienke](http://miromannino.github.io/Justified-Gallery/)'s page as inspiration/template for my work as well.
+
+### About the Website
+
+#### Image Display
+
+Here are a few website photo display tools that I used to make this page:
+- [Justified](http://miromannino.github.io/Justified-Gallery/) Gallery for the collage of photos that will show an entire collection but also show the picture fullscreen if desired.
+- [lightGallery](https://www.lightgalleryjs.com) is a Java tool that allows the user to view the fullsize image, along with descriptions!
+
+#### Photo Stories
+- [Exposure](https://www.johanneswienke.de/posts/2020/05/a-new-portfolio/). I can display a series of photos without much text initially (but will have captions) to tell a story. Very good for individual posts or trips that I may go on.
+- or even [Behance](https://www.johanneswienke.de/posts/2020/05/a-new-portfolio/)
 
 # photomaki
 
