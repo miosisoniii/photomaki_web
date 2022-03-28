@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://photomaki.com
 disableKinds:
   - section
   - taxonomy
@@ -7,12 +7,12 @@ disableKinds:
   - robotsTXT
 defaultContentLanguage: en
 theme: hugo-scroll
-title: Jane Doe - Nutrition Coach & Chef Consultant
+title: Mio Sison III - photomaki Photography
 params:
-  copyright: © Jane Doe
-  description: Nutrition Coach & Chef Consultant
+  copyright: © Artemio Sison III
+  description: Photographer and Scientist
   favicon: images/favicon.png
   images: images/cover-image.jpg
   meta:
     keywords: some, keywords, for, seo, you, know, google, duckduckgo, and, such
-  title: Jane Doe - Nutrition Coach & Chef Consultant
+  title: Mio Sison III - photomaki Photography
