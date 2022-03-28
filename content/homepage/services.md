@@ -12,6 +12,7 @@ That is the important part, right? You want to know what I can do for you. This 
 
 Playing lacrosse for most of my life, I really want to pursue sports photography. Insert passionate blurb about sports.
 ![Nice picture to make you pay me ;-)](images/reggie_sports_01.jpeg)
+Kind a weak jumper tbh :P sup Reg
 
 ---
 
