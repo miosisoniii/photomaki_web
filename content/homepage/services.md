@@ -10,11 +10,8 @@ That is the important part, right? You want to know what I can do for you. This 
 
 ## Sports Photography
 
-Here is a stock image of tomato and basil from the template's creator.
-
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow, this is a such a shitty stock image.
+Playing lacrosse for most of my life, I really want to pursue sports photography. Insert passionate blurb about sports.
+![Nice picture to make you pay me ;-)](images/reggie_sports_01.jpeg)
 
 ---
 
@@ -22,11 +19,11 @@ Wow, this is a such a shitty stock image.
 
 Here is a random-ass picture of food that the template creator generated for this website.
 
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
+![Let us get started on a clean slate](images/ada_portrait_01.JPG)
 
 and this is just a bunch of basic white people having a privileged-ass dinner.
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+![Let us get started on a clean slate](images/shelby_outdoor_01.jpeg)
 
 Wow! What an intuitive website!
 

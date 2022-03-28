@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![Jane Doe](images/shelby_portrait_01.JPG)
 Oh, hello. Didn't see you there. This isn't a very good photo of me, is it? This is just a random black woman with incredible curls. I'll **definitely** be replacing this photo with one of me very soon. 
 
 ### What the hell is a photomaki?
