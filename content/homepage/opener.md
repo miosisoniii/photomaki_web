@@ -1,5 +1,5 @@
 ---
-title: "Welcome to photomaki"
+title: "Why photomaki?"
 weight: 1
 ---
 
