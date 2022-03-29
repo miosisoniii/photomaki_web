@@ -20,11 +20,11 @@ Kind a weak jumper tbh :P sup Reg
 
 Here is a random-ass picture of food that the template creator generated for this website.
 
-![Let us get started on a clean slate](images/ada_portrait_01.JPG)
+![Ada image 01](images/ada_portrait_01.JPG)
 
 and this is just a bunch of basic white people having a privileged-ass dinner.
 
-![Let us get started on a clean slate](images/shelby_outdoor_01.jpeg)
+![Shelby outdoors 01](images/shelby_outdoor_01.jpeg)
 
 Wow! What an intuitive website!
 
