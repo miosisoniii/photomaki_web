@@ -15,8 +15,28 @@ Since there are so many ways I can build this website, I can weigh my options ou
 Templates from **Hugo**
 - [Clancy](https://themeforest.net/item/clancy-elegant-portfolio-theme-for-hugo/34620404) - Hugo, $39
 - [Avenco](https://themeforest.net/item/avenco-creative-portfolio-theme-for-hugo/36027180?s_rank=1) - Hugo. $39
+- [Thomson](https://gethugothemes.com/products/thomson/) - Hugo, $49
 
 Templates from **Jekyll**
+- [Index](https://jekyllthemes.io/theme/index-portfolio-jekyll-theme) - Jekyll, $49
+- [Avenco](https://themeforest.net/item/avenco-creative-portfolio-theme-for-hugo/36027180?s_rank=1) - Jekyll, $39
+
+Themes from [**SquareSpace**](https://www.squarespace.com/templates/browse/topic/photography)
+PERSONAL: $14/mo, paying annually = 168 (134 with code APR20WB)/yr
+BUSINESS: $23/mo, paying annually = 276 (220 with code APR20WB)/yr
+- [Beaumont](https://www.squarespace.com/templates/beaumont-demo), Squarespace, 
+- [Balboa](https://www.squarespace.com/templates/balboa-demo),
+- [Pazari](https://www.squarespace.com/templates/pazari-demo)
+
+Templates from [**Format**](https://www.format.com/site/design/themes)
+BASIC (adding domain - 20/year): 104 (50 with code APRIL50)/yr
+PRO: 15/mo, annually 180 (90 with code APRIL50)/yr
+PRO PLUS 25/mo, annually 300(150 with code APRIL50)/yr
+This could be really nice because you can sell prints on their website!
+
+
+- [Frame](https://www.format.com/site/design/themes/frame)
+
 
 ### About the Website
 
