@@ -8,6 +8,16 @@ I chose to use the [scroll](https://themes.gohugo.io/themes/hugo-scroll/) theme 
 
 I have also been using [Johannes Wienke](http://miromannino.github.io/Justified-Gallery/)'s page as inspiration/template for my work as well.
 
+
+# Other Potential Avenues for Portfolio
+Since there are so many ways I can build this website, I can weigh my options out over here:
+
+Templates from **Hugo**
+- [Clancy](https://themeforest.net/item/clancy-elegant-portfolio-theme-for-hugo/34620404) - Hugo, $39
+- [Avenco](https://themeforest.net/item/avenco-creative-portfolio-theme-for-hugo/36027180?s_rank=1) - Hugo. $39
+
+Templates from **Jekyll**
+
 ### About the Website
 
 #### Image Display
